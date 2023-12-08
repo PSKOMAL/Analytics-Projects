@@ -1,4 +1,4 @@
-#Cricket Analysis with Power BI
+Cricket Analysis with Power BI
 
 Introduction:
 Welcome to the world of cricket analysis! This GitHub repository houses a comprehensive project that delves into the exciting realm of cricket statistics. Leveraging the power of Microsoft's Power Query Editor for data cleaning and Power BI for visualization and in-depth analysis, this project offers a unique perspective on cricket data.

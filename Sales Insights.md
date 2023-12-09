@@ -1,4 +1,4 @@
-#Sales Insights with Power BI
+# with Power BI
 
 Introduction:
 
